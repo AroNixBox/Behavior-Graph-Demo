@@ -1,0 +1,9 @@
+License
+
+License for Midgard Skybox Asset
+This Skybox asset is provided solely for use within this project and may not be redistributed, resold, or used in other projects outside of this context.
+
+Shoutout to LaFinca Studio for allowing me to use their Midgard Skybox Asset in the Demo Scene: https://lafinca-studio.itch.io/
+
+License for the Rest of the Repository
+All other content in this repository, including code and assets (unless otherwise specified), may be freely shared, modified, and reused.
